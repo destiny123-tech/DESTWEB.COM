@@ -85,6 +85,20 @@
         border-radius: 10px;
     }
 
+
+    .imageDiv {
+        display: flex; 
+        width: 80%;
+        margin: auto;
+        
+    }
+
+    .image {
+        flex: 1;
+        width: auto;
+        height: auto;
+    }
+
     .para {
         margin-top: 20px;
         background-color: black;
